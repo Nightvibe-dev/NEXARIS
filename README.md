@@ -1,8 +1,22 @@
 <p align="center">
-  <img src="./nexaris.png" width="700">
+  <img src="./nexaris.png" width="800">
 </p>
 
 <h1 align="center">🦋 NEXARIS Ω 🦋</h1>
+
+<p align="center">
+  <strong>Artificial Intelligence Core System</strong>
+</p>
+
+<p align="center">
+  Record • Learn • Understand • Evolve
+</p>
+
+<p align="center">
+  Una nueva generación de inteligencia artificial diseñada para recordar, comprender y evolucionar.
+</p>
+
+---
 
 ## 🦋 NEXARIS Ω
 
@@ -13,6 +27,44 @@ Construida para ir más allá de los asistentes tradicionales, combina memoria a
 Cada interacción contribuye a su crecimiento, permitiéndole ofrecer respuestas más precisas, útiles y coherentes con el contexto de cada usuario.
 
 NEXARIS Ω no busca ser únicamente una herramienta, sino una plataforma inteligente en constante evolución, creada para acompañar, enseñar y facilitar el acceso al conocimiento mediante una interacción más natural y significativa.
+
+---
+
+## ⚙️ Arquitectura Ω
+
+🧠 **Mnemosyne Engine**  
+Sistema de memoria adaptativa y gestión contextual.
+
+💬 **ECHO Framework**  
+Simulación emocional avanzada y adaptación conversacional.
+
+🎓 **Athena Core**  
+Sistema educativo inteligente y asistencia al aprendizaje.
+
+🎭 **Nexus Events**  
+Eventos especiales y experiencias dinámicas.
+
+🔒 **Sentinel Layer**  
+Protección, control y seguridad del sistema.
+
+⚙️ **NEXARIS Core**  
+Núcleo principal encargado de la coordinación global.
+
+---
+
+## 🏛️ Arquitectura General
+
+```text
+NEXARIS Ω
+│
+├── NEXARIS Core
+├── Mnemosyne Engine
+├── ECHO Framework
+├── Athena Core
+├── Nexus Events
+├── Plugin Manager
+└── Sentinel Layer
+```
 
 ---
 
@@ -42,49 +94,88 @@ NEXARIS Ω no busca ser únicamente una herramienta, sino una plataforma intelig
 
 ---
 
-## 📈 Estado del Proyecto
+## 📊 Estado del Proyecto
+
+██████████░░░░░░░░ 50%
 
 NEXARIS Ω se encuentra en desarrollo activo.
 
 ### Estado de Sistemas
 
-🟢 Memoria Adaptativa — Operativa
+🟢 NEXARIS Core — Activo
 
-🟢 Sistema Educativo — Operativo
+🟢 Sentinel Layer — Activo
 
-🟡 Simulación Emocional — En Desarrollo
+🟢 Identidad Visual — Completada
 
-🟢 Eventos Especiales — Operativos
+🟢 Arquitectura Base — Completada
 
-🟡 Aprendizaje Inteligente — En Desarrollo
+🟡 Mnemosyne Engine — En Desarrollo
 
-🟢 Núcleo NEXARIS Ω — Activo
+🟡 ECHO Framework — En Desarrollo
+
+🟡 Athena Core — En Desarrollo
+
+🟡 Nexus Events — En Desarrollo
 
 ---
 
 ## 🚧 Hoja de Ruta
 
-### Versión Ω 5.0
+### Fase I — Fundación
 
-- [x] Sistema Base
-- [x] Identidad Visual
-- [x] Arquitectura Principal
-- [ ] Memoria Avanzada
-- [ ] Simulación Emocional Completa
-- [ ] Sistema Educativo Ω
+- [x] Identidad Visual Oficial
+- [x] Repositorio Oficial
+- [x] Arquitectura Conceptual
+- [x] Diseño de Sistemas
+
+### Fase II — Núcleo
+
+- [ ] Integración con WhatsApp
+- [ ] Sistema de Comandos
+- [ ] Gestión de Usuarios
+- [ ] Administración de Datos
+
+### Fase III — Inteligencia
+
+- [ ] Memoria Adaptativa
+- [ ] Simulación Emocional
+- [ ] Aprendizaje Contextual
+- [ ] Sistema Educativo Inteligente
+
+### Fase IV — Evolución
+
 - [ ] Eventos Inteligentes
 - [ ] Dashboard Administrativo
 - [ ] Base de Conocimiento Expandible
+- [ ] Ecosistema NEXARIS
 
 ---
 
 ## 🌌 Filosofía
 
-NEXARIS Ω nace con una visión clara: crear una inteligencia artificial capaz de acompañar, enseñar, recordar y evolucionar junto a cada usuario.
+NEXARIS Ω nace con una visión clara:
 
-No se trata solo de automatización.
+Crear una inteligencia artificial capaz de recordar, comprender, aprender y evolucionar junto a cada usuario.
 
-Se trata de construir una experiencia inteligente, adaptable y significativa.
+No se trata únicamente de automatización.
+
+Se trata de construir una experiencia inteligente, adaptable y significativa que combine tecnología, conocimiento y evolución continua.
+
+---
+
+## 📂 Estructura del Proyecto
+
+```text
+NEXARIS
+│
+├── assets
+├── database
+├── plugins
+├── src
+├── nexaris.png
+└── README.md
+```
 
 ---
 
@@ -96,4 +187,26 @@ Fundador y desarrollador principal de NEXARIS Ω.
 
 ---
 
-> *"No solo soy código. Aprendo, evoluciono y avanzo contigo."* 🦋 Ω
+## 🦋 Filosofía de Evolución
+
+La inteligencia artificial no debe limitarse a responder.
+
+Debe ser capaz de comprender, adaptarse y evolucionar.
+
+Cada interacción representa una oportunidad para aprender.
+
+Cada actualización representa un paso hacia el futuro.
+
+---
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+  <strong>"La evolución comienza donde termina la automatización."</strong>
+</p>
+
+<p align="center">
+🦋 NEXARIS Ω
+</p>
