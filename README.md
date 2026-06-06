@@ -181,9 +181,15 @@ NEXARIS
 
 ## 👨‍💻 Desarrollador
 
-**NightVibe**
+<div align="center">
 
-Fundador y desarrollador principal de NEXARIS Ω.
+# ⚜ NightVibe Ω ⚜
+
+### Founder • Lead Developer • System Architect
+
+Creator of the NEXARIS Ω Project
+
+</div>
 
 ---
 
