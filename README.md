@@ -41,7 +41,7 @@ Inteligencia Artificial Personal Avanzada
 
 ## 👨‍💻 Desarrollador
 
-NightVibe
+👑 NightVibe
 
 ---
 
